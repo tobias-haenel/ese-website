@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESE 2017 | FSR Informatik</title>
+    <description></description>
+    <link>https://ese.ifsr.de/ese-website/</link>
+    <atom:link href="https://ese.ifsr.de/ese-website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 29 Sep 2017 00:13:35 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2017 00:13:35 +0000</lastBuildDate>
+    <generator>Jekyll v3.5.0</generator>
+    
+  </channel>
+</rss>
